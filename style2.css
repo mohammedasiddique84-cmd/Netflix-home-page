@@ -1,0 +1,47 @@
+img {
+  display: block;
+  margin-right: 20px;
+}
+.heading {
+    color: red;
+}
+h4{
+    text-align:center;
+    color:#ffffff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+p{
+    text-align:center;
+    color :rgb(255,255,255);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+pre{
+    text-align:center;
+    color :rgb(255,255,255);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+button{
+    text-align:right;
+    color:rgb(255,255,255);
+    background-color:#ff0000; 
+}
+body{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color:rgb(255,255,255);
+    background-color: #000000;
+    text-align:center;
+    background-image: url("../../IMAGES/image.png");
+    background-size: cover;
+    background-position: center;
+    /* transparency */
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: darken;
+}   
+select{
+    text-align:right;
+}
